@@ -60,5 +60,4 @@ This project applies **Reinforcement Learning** to dynamically learn and adapt i
 
 ---
 
-## 🗂️ Project Structure
 
